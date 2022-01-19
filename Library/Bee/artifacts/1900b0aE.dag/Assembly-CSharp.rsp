@@ -377,6 +377,9 @@
 "Assets/JMO Assets/WarFX/Scripts/WFX_BulletHoleDecal.cs"
 "Assets/JMO Assets/WarFX/Scripts/WFX_LightFlicker.cs"
 "Assets/JMO Assets/WarFX/Spawn System/CFX_SpawnSystem.cs"
+"Assets/Scripts/GameInstructions.cs"
+"Assets/Scripts/RockBreak.cs"
+"Assets/Scripts/Timer.cs"
 -langversion:9.0
 
 /deterministic
